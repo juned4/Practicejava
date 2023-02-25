@@ -17,8 +17,7 @@ class Practice
 		System.out.println("3");
 	}
 	public Practice(int c, double d)
-	{
-		this(4.6);
+dddd		this(4.6);
 		System.out.println("4");
 	}
 }
